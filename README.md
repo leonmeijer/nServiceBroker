@@ -5,7 +5,7 @@ nServiceBrokerSample演示了SQL Service Broker + WCF Transport Channel for SQL 
 简单介绍
 -----------------
 SQL Service Broker：数据库队列，和MSMQ相似，可做数据库异步事务处理<br/>
-WCF Transport Channel for SQL Server Service Broker：基于SQL Server Service Broker做的WCF包装
+WCF Transport Channel for SQL Server Service Broker：基于SQL Server Service Broker做的WCF包装，项目地址：[http://ssbwcf.codeplex.com/](http://ssbwcf.codeplex.com/)
 
 使用场景
 -----------------
