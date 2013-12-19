@@ -18,6 +18,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{AE1144
 		.nuget\NuGet.targets = .nuget\NuGet.targets
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "db", "db", "{F763D15D-C791-4FCF-9CE5-76367D5D06FB}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Users\zhoucw\Desktop\ssb_db.sql = C:\Users\zhoucw\Desktop\ssb_db.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
